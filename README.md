@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there my name is Denis im excited to start a new journey as web explorer data miner and web developer👋
 
 <!--
 **Ktylllxy/Ktylllxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
